@@ -3,7 +3,7 @@
 
   <h1>tobuzzTV</h1>
 
-  Official Android release distribution for tobuzzTV, a free, open-source streaming aggregator.
+  Official Android release distribution for tobuzzTV.
 
   [![Latest Release](https://img.shields.io/github/v/release/SuitedTom/tobuzzTV-releases?style=for-the-badge&label=Release&color=FF4D57&logo=github)](https://github.com/SuitedTom/tobuzzTV-releases/releases/latest)
 
@@ -17,8 +17,6 @@
 ---
 
 ## 🎬 Overview
-
-tobuzzTV brings together content from multiple online sources into a single, streamlined Android app: one home, one search, one library, instead of juggling a dozen apps and sites.
 
 This repository ("tobuzzTV-releases") is the official distribution channel for the signed tobuzzTV APK.
 
