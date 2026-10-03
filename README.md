@@ -30,7 +30,6 @@ It does not contain the application's source code. It exists as a trusted, verif
 ## ✨ Features
 
 - 📱 Adaptive UI, optimized layouts for Mobile, Tablet, Android TV, and Google TV
-- 🔎 TMDB catalog discovery, search and browse movies and TV shows across Trending, Top Rated, and Genre categories
 - 🔀 Provider resolution & stream aggregation, multi-provider playback pipeline with automated fallback recovery and stream ranking
 - ▶️ Native Media3 ExoPlayer engine, fullscreen playback supporting HLS (`.m3u8`) and progressive MP4 streams, with custom controls, quality selection, audio/subtitle track switching, and gesture/D-pad navigation
 - 📺 Picture-in-Picture (PiP), seamless background playback while navigating the app
